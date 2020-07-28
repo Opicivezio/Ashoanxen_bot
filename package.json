@@ -1,0 +1,12 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "onoffsay.js",
+  "scripts": {
+    "r": "node Ashaonxen_bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
